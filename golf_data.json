@@ -1,0 +1,86 @@
+[
+  {
+    "counter": 1,
+    "currentHole": 1,
+    "recentPaths": [],
+    "difference": [
+      {
+        "location": [
+          51.49530551603658,
+          -0.3244922628387682
+        ],
+        "timestamp": "2024-07-05T16:43:12.963Z"
+      }
+    ]
+  },
+  {
+    "counter": 1,
+    "currentHole": 2,
+    "recentPaths": [
+      {
+        "location": [
+          51.49530551603658,
+          -0.3244922628387682
+        ],
+        "timestamp": "2024-07-05T16:43:12.963Z"
+      }
+    ],
+    "difference": []
+  },
+  {
+    "counter": 1,
+    "currentHole": 3,
+    "recentPaths": [
+      {
+        "location": [
+          51.49530551603658,
+          -0.3244922628387682
+        ],
+        "timestamp": "2024-07-05T16:43:12.963Z"
+      }
+    ],
+    "difference": []
+  },
+  {
+    "counter": 1,
+    "currentHole": 4,
+    "recentPaths": [
+      {
+        "location": [
+          51.49530551603658,
+          -0.3244922628387682
+        ],
+        "timestamp": "2024-07-05T16:43:12.963Z"
+      }
+    ],
+    "difference": []
+  },
+  {
+    "counter": 1,
+    "currentHole": 5,
+    "recentPaths": [
+      {
+        "location": [
+          51.49530551603658,
+          -0.3244922628387682
+        ],
+        "timestamp": "2024-07-05T16:43:12.963Z"
+      }
+    ],
+    "difference": []
+  },
+  {
+    "counter": 1,
+    "currentHole": 6,
+    "recentPaths": [
+      {
+        "location": [
+          51.49530551603658,
+          -0.3244922628387682
+        ],
+        "timestamp": "2024-07-05T16:43:12.963Z"
+      }
+    ],
+    "difference": []
+  }
+]
